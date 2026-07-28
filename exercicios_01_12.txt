@@ -1,0 +1,19 @@
+1. Selecione logradouro e valor dos imóveis da cidade "Lake Michael".
+2. Liste todas as colunas dos imóveis do tipo "apartamento".
+3. Mostre logradouro e valor dos imóveis com valor maior que 500000.
+4. Liste todas as colunas dos imóveis do bairro "Potterbury".
+5. Selecione logradouro, valor e tipo dos imóveis com valor entre 300000 e 600000.
+6. Mostre todas as colunas dos imóveis adquiridos após 2020-01-01.
+7. Liste logradouro, cidade e tipo dos imóveis do tipo "casa" na cidade "Lake Michael".
+8. Selecione todas as colunas dos imóveis cujo logradouro contém a palavra "Lake".
+9. Liste logradouro, tipo e valor dos imóveis que não são "terreno" e têm valor menor que 400000.
+10. Mostre todas as colunas dos imóveis do tipo "casa em condominio" com valor acima de 700000 e adquiridos após 2018-01-01.
+11. Selecione logradouro, cidade e valor dos imóveis cujo tipo é "apartamento" ou "casa", com valor entre 200000 e 800000, ordenando pelo valor decrescente.
+12. Liste todas as colunas dos imóveis adquiridos entre 2018-01-01 e 2022-12-31, cujo valor não está entre 300000 e 700000, ordenando pela data mais recente.
+13. Mostre a cidade e a quantidade de imóveis cadastrados em cada cidade.
+14. Liste o tipo do imóvel e o valor médio dos imóveis de cada tipo.
+15. Mostre o bairro e a quantidade de imóveis em cada bairro.
+16. Liste a cidade e o maior valor de imóvel registrado em cada cidade.
+17. Mostre o tipo do imóvel e o menor valor de imóvel registrado em cada tipo.
+18. Mostre a cidade e a soma total dos valores dos imóveis em cada cidade, ordenando do maior para o menor valor total.
+19. Liste o bairro e o valor médio dos imóveis, considerando apenas bairros com mais de 2 imóveis cadastrados.
